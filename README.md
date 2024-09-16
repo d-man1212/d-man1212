@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharshan (A.K.A DMan)</h1>
 
 # 💫 About Me:
-An adaptive and eager-to-learn tech enthusiast who constantly pushes his creative boundaries. Seeking for opportunities to contribute to real-world projects and expand my skills in a professional setting.<br><br>📄 Know about my experiences: [![Gmail](https://img.shields.io/badge/Resume-blue)](https://drive.google.com/file/d/1a9BDtFhQHjMtDwEPhXLst6EjOE7tfPS7)<br>📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dharshan.shankar2003@gmail.com)
+An adaptive and eager-to-learn tech enthusiast who constantly pushes his creative boundaries. Seeking for opportunities to contribute to real-world projects and expand my skills in a professional setting.<br><br>📄 Know about my experiences: [![Gmail](https://img.shields.io/badge/Resume-blue.svg)](https://drive.google.com/file/d/1a9BDtFhQHjMtDwEPhXLst6EjOE7tfPS7)<br>📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white)](dharshan.shankar2003@gmail.com)
 
 
 ## 🌐 Socials:
